@@ -1,9 +1,12 @@
 {
   "routes": [
     {
-      "route": "/*",
+      "route": "/index.html",
       "redirect": "/subnets.html",
       "statusCode": 301
     }
   ],
+  "navigationFallback": {
+    "rewrite": "/subnets.html"
+  }
 }
