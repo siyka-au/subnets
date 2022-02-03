@@ -1,5 +1,7 @@
 # subnets
-Visual subnet calculator as seen at http://www.davidc.net/sites/default/subnets/subnets.html
+Visual subnet calculator as seen at https://ashy-pond-04b29a610.1.azurestaticapps.net/subnets.html
+
+Original example online by David C. is at http://www.davidc.net/sites/default/subnets/subnets.html
 
 # Run with docker
 
