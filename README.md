@@ -13,4 +13,4 @@ docker run -d -p 5001:80 --name subnets subnets
 
 # Additional work
 
-This repository is also tracking the great work of Yehuda Katz who has provided IPv6 support which is of great interest to me. You can find hisfork at https://github.com/yakatz/subnets.
+This repository is also tracking the great work of Yehuda Katz who has provided IPv6 support which is of great interest to me. You can find his fork at https://github.com/yakatz/subnets.
